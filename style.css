@@ -60,3 +60,9 @@ body{
     padding-left: 1rem;
     padding-top: 1rem;
 }
+.copyright{
+    font-weight: lighter;
+    bottom: 0;
+    text-align:center;    
+    width: 100%;
+    opacity: 0.7;}
