@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+
+body{
+    font-family: 'Yomogi', cursive;
+    background-color: beige;
+
+}
+
+.header{
+    color: white;
+    text-align: top left;
+    background: url(image/ferb.jpg);
+    height: 10rem;
+    font-family: 'Yomogi', cursive;
+    font-size: larger;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    }
+
+.h1{
+    margin-block-start: 0rem;
+    margin-block-end: 0rem;
+    font-family: 'Yomogi', cursive;
+}
+ 
+.textarea{
+    width: 95%;
+    height: 20vh;
+    display: block;
+    margin: 1rem,1rem,1rem,1rem;
+    padding: 1rem,1rem,1rem,1rem;
+    margin: 1rem;
+    border:1px solid green;
+    font-family: 'Yomogi', cursive;
+    font-size: larger;
+    color:black;
+}
+
+.botton{
+    background:green ;
+    height: 7vh;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    color:white;
+    width: 30%;
+    font-size: larger;
+    font-family: 'Yomogi', cursive;
+    border-color:green;
+    margin-left: 1rem;
+}
+
+.footer{
+    background:#228B22;
+    color:white;
+    height: 10rem;
+    font-family: 'Yomogi', cursive;
+    font-size: medium;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
